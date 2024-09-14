@@ -1,5 +1,7 @@
 # FULLSTACK PERN
 
+![image](./public/rest-api-image.jpeg)
+
 ## BACKEND
 - Node
 - TypeScript
