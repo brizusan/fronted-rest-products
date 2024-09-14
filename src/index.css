@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contenedor{
+  @apply max-w-6xl mx-auto py-12 w-5/6 md:w-11/12 lg:w-full
+}
+
+a.active{
+  @apply text-indigo-600 underline underline-offset-4 decoration-indigo-700 
+}
